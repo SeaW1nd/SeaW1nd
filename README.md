@@ -9,7 +9,8 @@ I have joined in many CTF competitions around the world (to gain more knowledges
 *   🌍  I'm based in VietNam
 *   🧠  I'm learning Machine Learning and Al via Python
 *   🤝  I'm open to collaborating on ...nobody :V
-*   ⚡  Actually I am an anti-Al person who willing to learn it to prevent humanity from sth like Terminator or Matrix, sound dumb, right ;)### Skills 
+*   ⚡  Actually I am an anti-Al person who willing to learn it to prevent humanity from sth like Terminator or Matrix, sound dumb, right ;)
+* ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
                     </p>
