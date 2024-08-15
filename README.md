@@ -6,9 +6,9 @@ A pwn (noob) CTF player and also interested in Machine Learning, Al in Cybersecu
 
 I have joined in many CTF competitions around the world (to gain more knowledges). And also interested in Al, Machine Learning and DevSecOps in Cybersecurity field
 
-*   🌍  I'm based in VietNam
-*   🧠  I'm learning Machine Learning and Al via Python
-*   🤝  I'm open to collaborating on ...nobody :V
+*   🌍  I'm from in Ho Chi Minh City, VietNam
+*   🧠  I'm learning Machine Learning and Al via Python, and I also learing DevSecOps 
+*   🤝  I'm open to collaborating on ...everyone with the same interest with DevSecOps :V
 *   ⚡  Actually I am an anti-Al person who willing to learn it to prevent humanity from sth like Terminator or Matrix, sound dumb, right ;)
 * ### Skills 
 <p align="left">
