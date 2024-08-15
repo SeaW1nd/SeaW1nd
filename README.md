@@ -1,8 +1,6 @@
 Hi. My name is @SeaWind
 ================================================================================================================================
 
-<img src="https://tenor.com/search/coding-gifs">
-
 A pwn (noob) CTF player and also interested in Machine Learning, Al in Cybersecurity field.
 -------------------------------------------------------------------------------------------
 
